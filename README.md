@@ -8,6 +8,9 @@
 
 추억보관용 모바일 청첩장입니다.
 
+> 배포 URL
+> https://devchaeyoung.github.io/invite-you-my-wedding/
+
 ## 실행 방법
 
 ### CLI
